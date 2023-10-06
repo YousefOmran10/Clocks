@@ -1,0 +1,33 @@
+#timeContainer{
+    text-align: center;
+    border: 3px solid ;
+    background-color: rgb(17, 16, 16);
+    height:130px;
+    border-radius: 40px;
+}
+#timeDisplay{
+    font-size: 50px;
+    font-family: monospace;
+    color: white;
+}
+
+#timeContainer button {
+    width: 100px;
+    height: 30px;
+    border: 3px solid white ;
+    border-radius: 10px;
+    margin-top:40px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: black;
+}
+
+
+#clock{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family:monospace ;
+}
+
